@@ -4,5 +4,5 @@
 
 | **Number**      | **Problem**     |  **Solution**    | **Tags**        |
 | ----------- | ----------- |  ----------- | ----------- |
-| 938      | [Range Sum of BST] (https://leetcode.com/problems/range-sum-of-bst/)      | [Solution] (https://leetcode.com/submissions/detail/459130557/)
+| 938      | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)      | [Solution](https://leetcode.com/submissions/detail/459130557/)
 | Paragraph   | Text        |
