@@ -5,4 +5,4 @@
 | **Number**      | **Problem**     |  **Solution**    | **Tags**        |
 | ----------- | ----------- |  ----------- | ----------- |
 | 938      | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)      | [Solution](https://github.com/utkarshsharma614/LeetCode-Solutions/blob/main/Solutions/RangeSumBST.py)      | Tree, Depth-first Search, Recursion
-| Paragraph   | Text        |
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)        | [Solution](https://github.com/utkarshsharma614/LeetCode-Solutions/blob/main/Solutions/TwoSum.py)      | Array, Hash Table
