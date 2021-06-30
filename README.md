@@ -17,3 +17,4 @@
 | 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)        | [Solution](https://github.com/utkarshsharma614/LeetCode-Solutions/blob/main/Solutions/RomantoInteger.py)      | Hash Table, Math, String
 | 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)        | [Solution](https://github.com/utkarshsharma614/LeetCode-Solutions/blob/main/Solutions/LongestCommonPrefix.py)      | String
 | 15   | [3Sum](https://leetcode.com/problems/3sum/)        | [Solution](https://github.com/utkarshsharma614/LeetCode-Solutions/blob/main/Solutions/3Sum.py)      | Array, Two Pointers, Sorting
+| 16   | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)        | [Solution](https://github.com/utkarshsharma614/LeetCode-Solutions/blob/main/Solutions/3SumClosest.py)      | Array, Two Pointers, Sorting
